@@ -1,0 +1,29 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+font-family: gilroy;
+}
+html,body{
+height: 100%;
+width: 100%;
+}
+
+.box{
+    height: 25vh;
+    width: 100%;
+    background-color: #000;
+    color: #ffffff;
+    overflow: hidden;
+}
+
+h1{
+    font-size: 20vh;
+    color: #ffffff;
+    position: relative;
+    transition: all ease 0.4s;
+}
+
+span{
+    display: inline-block;
+}
